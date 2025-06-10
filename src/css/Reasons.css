@@ -1,0 +1,38 @@
+.Reasons{
+    display: flex;
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.reasons-pane{
+    margin: 0 auto;
+}
+
+.reason{
+    margin: 10px;
+    border: 2px solid #102D15;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.reason img{
+    width: 10%;
+}
+
+@media screen and (max-width : 800px) {
+    .Reasons{
+        width: 90%;
+    }
+
+    .reason{
+        width: auto;
+        padding: 10px;
+        margin: 10px ;
+    }
+
+    .reason img{
+        display: none;
+    }
+}

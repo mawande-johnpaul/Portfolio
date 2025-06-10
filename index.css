@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #D2D2CF;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html{
+    scroll-behavior: smooth;
+    scrollbar-width: 5px;
+}

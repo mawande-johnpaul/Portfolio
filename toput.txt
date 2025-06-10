@@ -1,0 +1,15 @@
+About Page
+	In header (Add download my resume button)
+	My data and contacts
+	My services	
+	My projects
+	Why choose me
+	
+	
+Color palette
+	Brighter: #D9E0A4
+	Light(Text): #DAE2CB
+	Accent(cards): #CFDCBD
+	Dark(Text and active): #0E0E0E
+	Dark but brighter(For some sections bg): #102D15
+	
